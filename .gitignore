@@ -1,3 +1,4 @@
 A.txt --> Ignore Everywhere
 /A.txt --> Ignore Only In This Folder
 *.txt --> Ignore All Files Whose With (.txt) Extension
+FolderName --> Ignore Folder
